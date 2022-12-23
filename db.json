@@ -18,6 +18,6 @@
     { "MenuKey": "sub1", "MenuTitle": "海外就業國家" },
     { "MenuKey": "sub2", "MenuTitle": "海外就業分享" },
     { "MenuKey": "sub3", "MenuTitle": "海外就業指南" },
-    { "MenuKey": "sub4", "MenuTitle": "海外返國專區" },
+    { "MenuKey": "sub4", "MenuTitle": "海外返國專區" }
   ]
 }
